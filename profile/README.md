@@ -2,7 +2,7 @@
 
 NOVA is a privacy-first, decentralized file-sharing primitive, empowering user-owned AI at scale with encrypted data persistence. It is used by talented developers, technology builders, to enhance online privacy across many industries and market segments. Take a look at the featured repositories and reach out if you want to add your project to NOVA's highlights.
 
-NEAR Innovation Sandbox hackathon 2026 winners: 
+**NEAR Innovation Sandbox hackathon 2026 winners**: 
 🥇 PrivateRAG
 🥈 Proof of Pulse
 🥉 PrivyFinance
