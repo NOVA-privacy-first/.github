@@ -3,9 +3,9 @@
 NOVA is a privacy-first, decentralized file-sharing primitive, empowering user-owned AI at scale with encrypted data persistence. It is used by talented developers, technology builders, to enhance online privacy across many industries and market segments. Take a look at the featured repositories and reach out if you want to add your project to NOVA's highlights.
 
 **NEAR Innovation Sandbox hackathon 2026 winners**: 
-- 🥇 **PrivateRAG**: market is huge and will keep growing. Enterprises willing to adopt AI but afraid to be stolen private data is massive. 77% of employees leak corporate data to chatGPT. 
-- 🥈 **Proof of Pulse**: niche market but clearly identified. Addresses a crucial painpoint "fraud on move-to-earn" apps. Since we have one of the biggest competitors in this market in the NEAR ecosystem, I'd like to give it a chance to move on production step.
-- 🥉 **PrivyFinance**: personal finance is a concern for everyone, the app is well done, simple but working efficiently and it integrates the most essential features in a most straightforward UX.
+- **PrivateRAG**: market is huge and will keep growing. Enterprises willing to adopt AI but afraid to be stolen private data is massive. 77% of employees leak corporate data to chatGPT. 
+- **Proof of Pulse**: niche market but clearly identified. Addresses a crucial painpoint "fraud on move-to-earn" apps. Since we have one of the biggest competitors in this market in the NEAR ecosystem, I'd like to give it a chance to move on production step.
+- **PrivyFinance**: personal finance is a concern for everyone, the app is well done, simple but working efficiently and it integrates the most essential features in a most straightforward UX.
 
 ### Health & Wellness / Personal Biometrics
 Projects focus on secure storage and sharing of health, biometric, or personal monitoring data, leveraging NOVA for encryption and access control. Market data shows a growing demand in wearables, telemedicine, and personalized health (e.g., Apple Health competitors). NOVA for encryption and access control.
